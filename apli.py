@@ -4,7 +4,6 @@ import time
 import random
 from musica import Song, banco_de_dados, cursor
 from app import novo_usuario, historico, Cursor
-#from algoritmos import m_rec1, m_rec2, m_rec3, m_rec4, m_rec5
 
 streams = sqlite3.connect("stream.db")
 _cursor = streams.cursor()
