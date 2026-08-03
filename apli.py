@@ -221,7 +221,5 @@ def algoritmo5():
             m5 = cursor.fetchone()
 
 Inicio()
-<<<<<<< HEAD
+
 #teste
-=======
->>>>>>> d4b6c65d8353da75cbe727182275dbaffe01672e
