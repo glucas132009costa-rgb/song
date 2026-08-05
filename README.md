@@ -1,0 +1,5 @@
+Sobre:
+SIMULADOR DE UM APLICATIVO DE STREAMING DE MÚSICA.
+
+Tecnologias:
+Python, SQLite
